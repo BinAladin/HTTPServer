@@ -7,9 +7,9 @@ using System.Net.Sockets;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace CHServer
+namespace Server
 {
-    public class ChatServer
+    public class HTTPServer
     {
 
         public static string StringToString(List<string> list)
