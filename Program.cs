@@ -19,6 +19,7 @@ namespace CHServer
             {
                 FinalString += list[i] + "\n";
             }
+
             return FinalString;
         }
         public static void DoIt(Socket acceptedSocket, List<string> messages)
