@@ -11,6 +11,7 @@ namespace CHServer
 {
     public class ChatServer
     {
+
         public static string StringToString(List<string> list)
         {
             string FinalString = "";
